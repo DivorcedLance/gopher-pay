@@ -1,10 +1,3 @@
-¡Quedará perfecto! Agregar un video demo aumenta muchísimo el valor del portafolio porque demuestra que el código realmente funciona "en vivo".
-
-Aquí tienes el archivo `README.md` actualizado. He agregado una sección destacada **"🎥 Live Demo"** justo después de la introducción para que sea lo primero que vean.
-
-Copia y pega esto en tu archivo `README.md`:
-
-```markdown
 # Gopher-Pay 🐹 | High-Concurrency BNPL Engine
 
 **Gopher-Pay** is a production-ready prototype of a **Buy Now, Pay Later (BNPL)** system. It features a high-performance **Go (Golang)** backend capable of handling high-concurrency scenarios (like "Black Friday" traffic) and a cross-platform **React Native (Expo)** frontend.
@@ -137,7 +130,3 @@ This project is open-source and available under the MIT License.
 ---
 
 *Built by José Luis Vergara as a Proof of Concept for Fintech Engineering.*
-
-```
-
-```
